@@ -72,6 +72,11 @@ import vuetifyjs from '/public/svg/skills/vuetifyjs.svg';
 import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
+import spark from '/public/svg/skills/spark.svg';
+import cassandra from '/public/svg/skills/cassandra.svg';
+import kafka from '/public/svg/skills/kafka.svg';
+import jenkins from '/public/svg/skills/jenkins.svg';
+import scala from '/public/svg/skills/scala.svg';
 
 
 export const skillsImage = (skill) => {
@@ -225,6 +230,16 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
+    case 'spark':
+      return spark;
+    case 'scala':
+      return scala;
+    case 'cassandra':
+      return cassandra;
+    case 'jenkins':
+      return jenkins;
+    case 'kafka':
+      return kafka;
     default:
       break;
   }
