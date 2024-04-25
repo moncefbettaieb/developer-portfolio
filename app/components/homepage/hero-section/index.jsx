@@ -107,7 +107,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Kafka</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">KAfka Streams</span>
+                <span className="text-amber-300">Kafka Streams</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">AWS</span>
                 <span className="text-gray-400">{"', '"}</span>
